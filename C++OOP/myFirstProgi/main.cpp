@@ -4,6 +4,7 @@
 //
 //  Created by Kutman Amangeldiev on 8/10/22.
 //
+// bugun
 
 #include <iostream>
 using namespace std;
